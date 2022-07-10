@@ -1,0 +1,12 @@
+es:
+  groups:
+    default_names:
+      everyone: "todos"
+      admins: "administradores"
+      moderators: "moderadores"
+      staff: "personal"
+      trust_level_0: "n_d_c_0"
+      trust_level_1: "n_d_c_1"
+      trust_level_2: "n_d_c_2"
+      trust_level_3: "n_d_c_3"
+      trust_level_4: "n_d_c_4"
